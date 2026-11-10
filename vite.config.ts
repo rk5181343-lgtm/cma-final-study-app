@@ -1,7 +1,6 @@
 import { defineConfig } from 'vite';
 import react from '@vitejs/plugin-react';
 
-// The preview host is injected at start time so no hostname is baked into the repo.
 const previewHost = process.env.PREVIEW_HOST;
 
 export default defineConfig({

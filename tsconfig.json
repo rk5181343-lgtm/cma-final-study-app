@@ -10,19 +10,11 @@
     "forceConsistentCasingInFileNames": true,
     "isolatedModules": true,
     "jsx": "react-jsx",
-    "lib": [
-      "ESDOM",
-      "DOM"
-    ],
+    "lib": ["ESDOM", "DOM"],
     "baseUrl": ".",
     "paths": {
-      "@/*": [
-        "src/*"
-      ]
+      "@/*": ["src/*"]
     }
   },
-  "include": [
-    "src/**/*",
-    "vite.config.ts"
-  ]
+  "include": ["src/**/*", "vite.config.ts"]
 }
