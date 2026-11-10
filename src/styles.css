@@ -1,0 +1,11 @@
+/* CMA Final Study App styles */
+:root {
+  --ink: #15181d;
+  --ink-soft: #3b424c;
+  --accent: #1d5a49;
+  --accent-ink: #0c3a2e;
+  --accent-soft: #e8f1ec;
+  --card: #fff;
+  --line: #e0e0e0;
+  --shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
